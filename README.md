@@ -1,4 +1,4 @@
-#### Power BI Dashboard Using Super Store Sales Data
+### Power BI Dashboard Using Super Store Sales Data
 
 #### Step 1: Identified Key Performance Indicators (KPIs) based on total order value, total sales, total profit and average shipping period in the year 2019 and 2020 for future scaling and optimization.
 
